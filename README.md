@@ -1,12 +1,12 @@
-#Content 
+# Content 
 this is a video chat app that I have used socket.io to make a connection and listen to events between the client and the server.
 
-#hosting 
+# hosting 
 
 backend => On heroku
 frontend => vercel
 
-#live demo => https://video-chat-appli.vercel.app/
+# live demo => https://video-chat-appli.vercel.app/
 
 
 # Getting Started with Create React App
